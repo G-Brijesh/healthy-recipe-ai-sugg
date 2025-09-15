@@ -1,0 +1,6 @@
+fastapi==0.112.0
+uvicorn[standard]==0.30.3
+transformers==4.43.3
+torch --index-url https://download.pytorch.org/whl/cpu
+accelerate>=0.33.0
+numpy>=1.26.0
